@@ -1,0 +1,19 @@
+# 敏感信息
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 运行时生成
+data/
+
+# IDE
+.idea/
+.vscode/
+*.iml

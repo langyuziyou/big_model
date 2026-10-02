@@ -1,0 +1,8 @@
+# 运行时依赖（当前环境均已安装；离线环境无需额外下载）
+fastapi>=0.100
+uvicorn>=0.20
+requests>=2.28
+numpy>=1.24
+
+# 可选：启用 LLM 自然语言答案（OpenAI 兼容接口）
+# openai>=1.0
